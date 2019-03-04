@@ -32,3 +32,5 @@ Push changes, check whether the tag existis in the remote.
 	d. remove it in the remote from the command line
 14. Pruning tags: In the second Visual Studio Code synchronize the local tags with the remote ones (i.e. remove ones deleted remotely).
 
+The first release, at first untagged.
+
