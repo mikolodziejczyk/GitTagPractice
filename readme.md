@@ -34,3 +34,4 @@ Push changes, check whether the tag existis in the remote.
 
 The first release, at first untagged.
 
+The second release, tagged from scratch.
