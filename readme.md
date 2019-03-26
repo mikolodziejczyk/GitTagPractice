@@ -36,3 +36,4 @@ Push changes, check whether the tag existis in the remote.
 
 Some changes to readme.md from the first.
 The second release, tagged from scratch.
+The third release, tagged from scratch.
