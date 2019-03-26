@@ -35,3 +35,4 @@ Push changes, check whether the tag existis in the remote.
 15. Pruning tags: In the second Visual Studio Code synchronize the local tags with the remote ones (i.e. remove ones deleted remotely).
 
 Some changes to readme.md from the first.
+The second release, tagged from scratch.
