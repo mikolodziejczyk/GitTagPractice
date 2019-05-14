@@ -33,3 +33,5 @@ Push changes, check whether the tag existis in the remote.
 	c. remove the v3.0 tag from GitLens
 	d. remove it in the remote from the command line
 15. Pruning tags: In the second Visual Studio Code synchronize the local tags with the remote ones (i.e. remove ones deleted remotely).
+
+The first release, at first untagged.
