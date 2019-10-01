@@ -2,6 +2,7 @@ Git Tag Practice
 ---
 
 First changes.
+The second release, tagged from scratch.
 
 This is git tag practice area.
 
