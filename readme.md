@@ -1,6 +1,8 @@
 Git Tag Practice
 ---
 
+First changes.
+
 This is git tag practice area.
 
 1. Lightweight vs. annotated tags - which one to use.
