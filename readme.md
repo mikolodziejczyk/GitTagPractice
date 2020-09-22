@@ -36,3 +36,4 @@ Push changes, check whether the tag existis in the remote.
 
 Addition v1.
 The second release, tagged from scratch.
+The third release, tagged from scratch.
