@@ -1,6 +1,9 @@
 Git Tag Practice
 ---
 
+The first release, at first untagged.
+
+
 This is git tag practice area.
 
 1. Lightweight vs. annotated tags - which one to use.
